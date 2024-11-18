@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora SOAP</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script>
+        function validateForm() {
+            let intA = document.getElementById("intA").value;
+            let intB = document.getElementById("intB").value;
+            let regex = /^[0-9]{1,5}$/;
+
+            if (!regex.test(intA) || !regex.test(intB)) {
+                alert("Por favor, ingrese números enteros positivos de hasta 5 dígitos.");
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora SOAP</h1>
+        <form action="/" method="post" onsubmit="return validateForm()">
+            <label for="operation">Seleccione una Operación:</label>
+            <select name="operation" id="operation">
+                <option value="Add">Suma</option>
+                <option value="Subtract">Resta</option>
+                <option value="Multiply">Multiplicación</option>
+                <option value="Divide">División</option>
+            </select><br>
+            <label for="intA">Primer Valor:</label>
+            <input type="text" name="intA" id="intA" maxlength="5" required><br>
+            <label for="intB">Segundo Valor:</label>
+            <input type="text" name="intB" id="intB" maxlength="5" required><br>
+            <input type="submit" value="Calcular" class="submit-btn">
+        </form>
+        <div class="result">
+            {% if result %}
+                <h2>Resultado: {{ result }}</h2>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

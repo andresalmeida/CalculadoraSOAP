@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa; /* Fondo azul claro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 350px;
+}
+
+h1 {
+    color: #333;
+}
+
+select, input[type="text"], input[type="submit"] {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.submit-btn {
+    background-color: #ff9800; /* Botón naranja */
+    color: white;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: #e68a00; /* Botón naranja oscuro al pasar el mouse */
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+.result h2 {
+    color: green;
+}
