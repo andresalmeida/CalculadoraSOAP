@@ -1,0 +1,16 @@
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\obj\Debug\CalculadoraSoap.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\obj\Debug\CalculadoraSoap.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\CalculadoraSoap.exe.config
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\CalculadoraSoap.exe
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\CalculadoraSoap.pdb
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\obj\Debug\CalculadoraSoap.csproj.CopyComplete
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\obj\Debug\CalculadoraSoap.exe
+C:\Users\rodri\OneDrive\Documentos\PREGRADO S-II NOV 23 - MAR 24\CalculadoraSoap\obj\Debug\CalculadoraSoap.pdb
